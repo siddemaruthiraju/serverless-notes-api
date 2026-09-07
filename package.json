@@ -1,0 +1,25 @@
+{
+  "name": "serverless-notes-api",
+  "version": "1.0.0",
+  "description": "\"Serverless Notes API - Node.js, Lambda, DynamoDB\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddemaruthiraju/serverless-notes-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/siddemaruthiraju/serverless-notes-api/issues"
+  },
+  "homepage": "https://github.com/siddemaruthiraju/serverless-notes-api#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1693.0",
+    "uuid": "^14.0.2"
+  }
+}
